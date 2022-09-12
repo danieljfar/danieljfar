@@ -1,11 +1,11 @@
 # Hi there 👋, i'm Fullstack Developer, with experience in the following areas:
 
-✔️ Basics: HTML / CSS 
-✔️ Programming Languages: Python / Javascript
-✔️ Frontend Frameworks: Angular / React
-✔️ Backend Frameworks: Django / NodeJs / Express
-✔️ Databases: MySQL, PostgreSQL, MongoDB
-✔️ Additional: Docker, Git, Github
+✔️ Basics: HTML / CSS</br> 
+✔️ Programming Languages: Python / Javascript</br> 
+✔️ Frontend Frameworks: Angular / React</br> 
+✔️ Backend Frameworks: Django / NodeJs / Express</br> 
+✔️ Databases: MySQL, PostgreSQL, MongoDB</br> 
+✔️ Additional: Docker, Git, Github</br> 
 
 I am detail, observant and passionate. These are three characteristics that can define me as a web developer.
 

@@ -1,21 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=danieljfar&show_icons=true&theme=github_dark">
-</p>
-<hr>
-<br>
+### <📊> GitHub stats </📊>
 
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danieljfar&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
 
-<hr>
-<br>
+[![Danieljfar' GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljfar&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/danieljfar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljfar&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/danieljfar) 
+| ----------- | ------------ |
+
+---
+

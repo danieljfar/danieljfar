@@ -9,7 +9,7 @@
 
 I am detail, observant and passionate. These are three characteristics that can define me as a web developer.
 
-[Click to find me on linkedin](https://www.linkedin.com/in/danjfar/)
+### [Click to find me on linkedin](https://www.linkedin.com/in/danjfar/)
 
 ## GitHub stats
 

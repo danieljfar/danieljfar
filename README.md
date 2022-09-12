@@ -1,4 +1,4 @@
-# Hi there 👋, i'm Daniel Faria a Fullstack Developer, with experience in the following areas:
+# Hi there 👋, i'm Fullstack Developer, with experience in the following areas:
 
 ✔️ Basics: HTML / CSS</br> 
 ✔️ Programming Languages: Python / Javascript</br> 

@@ -9,7 +9,7 @@
 
 I am detail, observant and passionate. These are three characteristics that can define me as a web developer.
 
-## <📊> GitHub stats </📊>
+## GitHub stats
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljfar&layout=compact&theme=radical)](https://github.com/danieljfar/github-readme-stats)

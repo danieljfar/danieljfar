@@ -13,7 +13,6 @@ I am detail, observant and passionate. These are three characteristics that can 
 
 ## GitHub stats
 
+[![Danieljfar GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljfar&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/danieljfar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljfar&layout=compact&theme=radical)](https://github.com/danieljfar)
-
-[![Danieljfar GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljfar&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/danieljfar)

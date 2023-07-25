@@ -9,7 +9,8 @@
 
 I am detail, observant and passionate. These are three characteristics that can define me as a web developer.
 
-#### [Click to find me on linkedin](https://www.linkedin.com/in/danjfar/)
+[![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://gitlab.com/d.98.jose](https://www.linkedin.com/in/danjfar/))
+[![GitLab Logo](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/d.98.jose)
 
 ## GitHub stats
 

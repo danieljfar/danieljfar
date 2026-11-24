@@ -25,13 +25,3 @@ Detail-oriented, observant, and passionate about continuous learning and innovat
 🤝 Open to collaborations on innovative and community-driven projects.
 
 ---
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/danjfar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----

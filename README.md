@@ -23,5 +23,3 @@ Detail-oriented, observant, and passionate about continuous learning and innovat
 🔍 I enjoy building projects that simplify complex workflows.  
 🌱 Currently expanding my expertise in **cloud architecture** and **automation**.  
 🤝 Open to collaborations on innovative and community-driven projects.
-
----
